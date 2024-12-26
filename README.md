@@ -16,6 +16,18 @@ Smart Energy Optimizer predicts energy consumption based on real-time data (temp
 - Matplotlib
 - Schedule
 
+smart-energy-optimizer/
+├── data/
+│   └── energy_data.csv   # Sample dataset
+├── models/
+│   └── energy_optimizer_model.pkl  # Trained model
+├── scripts/
+│   └── main.py           # Core script for training and simulation
+├── README.md
+├── requirements.txt      # Python dependencies
+└── LICENSE               # License file (optional)
+
+
 ## Installation
 1. Clone the repository:
    ```bash
