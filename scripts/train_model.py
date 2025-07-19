@@ -20,3 +20,6 @@ model.fit(X_train, y_train)
 # Save the trained model to a file
 joblib.dump(model, "models/energy_optimizer_model.pkl")
 print("Model trained and saved successfully.")
+
+
+### end_code
