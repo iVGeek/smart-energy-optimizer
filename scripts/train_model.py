@@ -22,8 +22,4 @@ joblib.dump(model, "models/energy_optimizer_model.pkl")
 print("Model trained and saved successfully.")
 
 
-### end_code
-
-#### implement autopilot 
-
-#$# ebc. dgfgfvcddfy cdtef
+&& if temp=1 ,then actionize; timer_&& else if , end
