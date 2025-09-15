@@ -37,3 +37,5 @@ if __name__ == "__main__":
 
 ### implement autopilot 
 ### get pre data_auto
+
+&&&get_mod_int-variabe_9
